@@ -1,6 +1,6 @@
                             <h1 align="center">Hi 👋, I'm Farouk</h1>
 <h3 align="center">A passionate developer</h3>
-(img align="right" alt="Coding" width="400" src="[https://gifer.com/en/39Cg](https://giphy.com/gifs/GDevs-dev-chrome-summit-Q7SKqn3G97xpmfSOvG)")
+
 - 🔭 I’m currently working on: [A Desktop/Web Smart-Gym Application](https://github.com/Jev1337/GymPlus.git)
 
 - 🌱 I’m currently learning **Java,javascript,python**
