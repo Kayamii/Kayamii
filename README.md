@@ -11,8 +11,8 @@
 <p align="left">
 <a href="https://twitter.com/faroukchb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="faroukchb" height="30" width="40" /></a>
 <a href="[https://linkedin.com/in/farouk chbichib](https://www.linkedin.com/in/farouk-chbichib-500a18252/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="farouk chbichib" height="30" width="40" /></a>
-<a href="https://fb.com/farouk chb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="farouk chb" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/https://www.youtube.com/channel/ucizykvu44fdj1mefg5rxxpg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/ucizykvu44fdj1mefg5rxxpg" height="30" width="40" /></a>
+<a href="[https://fb.com/farouk chb](https://www.facebook.com/farouk531/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="farouk chb" height="30" width="40" /></a>
+<a href="[https://www.youtube.com/c/https://www.youtube.com/channel/ucizykvu44fdj1mefg5rxxpg](https://www.youtube.com/channel/UCIzykvU44fDJ1mEFG5rxxPg)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/ucizykvu44fdj1mefg5rxxpg" height="30" width="40" /></a>
 <a href="https://discord.gg/.kayami" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt=".kayami" height="30" width="40" /></a>
 </p>
 
