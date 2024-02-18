@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Farouk</h1>
 <h3 align="center">A passionate developer</h3>
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=raslenraslen&show_icons=true)](https://github.com/anuraghazra/github-readme-stats&show_icons=true)
+
 - 🔭 I’m currently working on: [A Desktop/Web Smart-Gym Application](https://github.com/Jev1337/GymPlus.git)
 
 - 🌱 I’m currently learning **Java,javascript,python**
