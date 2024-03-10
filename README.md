@@ -56,6 +56,6 @@
 
 ###
 
-<img src="dist/github-contribution-grid-snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/kayamii/kayamii/master/dist/github-contribution-grid-snake.svg" alt="Snake animation" />
 
 ###
