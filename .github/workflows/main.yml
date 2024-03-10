@@ -1,0 +1,22 @@
+name: Generate Datas
+
+on:
+  push:
+    branches:
+      - master
+
+jobs:
+  build:
+
+    runs-on: ubuntu-latest
+
+    steps:
+    - uses: actions/checkout@v2
+    - uses: Platane/snk@master
+      with:
+        github_user_name: kayamii
+        svg_out_path: dist/github-contribution-grid-snake.svg
+    - uses: actions/upload-artifact@v2
+      with:
+        name: dist
+        path: dist
